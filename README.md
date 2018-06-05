@@ -1,1 +1,1 @@
-# LatexAnalizaComplexitatii
+# Latex - Analiza Complexității
